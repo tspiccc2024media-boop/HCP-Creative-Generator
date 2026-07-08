@@ -1,0 +1,5 @@
+confirmModulesPurge: false
+allowBuilds:
+  canvas: false
+  core-js: false
+  sharp: false
